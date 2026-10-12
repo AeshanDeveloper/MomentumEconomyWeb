@@ -4,7 +4,7 @@
   Keep the quotes around text values.
 */
 window.SITE_CONFIG = {
-  botName: "MomentumEconomy Bot",
+  botName: "MomentumEconomy",
   tagline: "A little more reward for being here.",
   ownerName: "Mr. Aeshan",
   discordInvite: "https://discord.gg/zF4SJrHgsT",
